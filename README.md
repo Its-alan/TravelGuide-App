@@ -17,7 +17,9 @@ It offers comprehensive flight, hotel, and cab booking services, alongside perso
 - **BottomNavigationView & NavGraph** for intuitive app navigation and structure.
 - **Bookmark Page** to save and manage favorite trips. 
 - **Search Functionality** to easily find and filter trips.
-- **Detailed Screens** to view additional images of hotels and explore unique destinations.### What I Used
+- **Detailed Screens** to view additional images of hotels and explore unique destinations.
+
+## What I Used
 
 - **Bottom NavigationView** for seamless app navigation. 🧭
 - **App Navigation** via Bottom NavigationView. ➡️
